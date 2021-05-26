@@ -1,7 +1,6 @@
 # TIL
 Today I Learned
 
-- 2020/10/05 ~ ing
-- 주 5회 작성 목표!
-- 커밋은 주기적이지 않습니다.
-- `때때로 가독성이 좋지 않을 수 있습니다.`
+- 2020/10/05 ~ 2021/04/30
+- Goal is to report at least five times a week
+- Success!!
